@@ -199,7 +199,7 @@ Erhebliche Änderungen erfordern Ihre erneute Zustimmung.
 ## 15. Kontakt
 
 ### 15.1 Datenschutzbeauftragter
-E-Mail: datenschutz@essmartsolutions.com  
+E-Mail: MAIL Adresse  
 Telefon: +49 (0) XXX XXX XXX  
 
 ### 15.2 Beschwerden
