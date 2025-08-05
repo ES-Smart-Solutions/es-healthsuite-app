@@ -3,7 +3,7 @@
 **Stand:** Januar 2025  
 **Version:** 1.0  
 **App:** ES HealthSuite  
-**Entwickler:** ES Smart Solutions  
+**Entwickler:** ES Smart Solutions AG 
 **Bundle ID:** com.essmartsolutions.ES-HealthSuitev2  
 
 ---
