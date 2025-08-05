@@ -15,8 +15,8 @@ ES HealthSuite ist eine medizinische Notfall-App, die entwickelt wurde, um Senio
 ## 2. Verantwortlicher
 
 **ES Smart Solutions**  
-E-Mail: datenschutz@essmartsolutions.com  
-Website: https://essmartsolutions.com  
+E-Mail: Maila Adresse
+Website: https:/ 
 
 ## 3. Welche Daten erheben wir?
 
