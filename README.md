@@ -1,6 +1,6 @@
 # ES HealthSuite
 
-Companien App unserer Alarmierungsplattform. Für Notruf, Safezone und Vitaldatenüberwachung.
+Companion App unserer Alarmierungsplattform. Für Notruf, Safezone und Vitaldatenüberwachung.
 
 ## Features
 
