@@ -4,10 +4,10 @@ Companien App unserer Alarmierungsplattform. Für Notruf, Safezone und Vitaldate
 
 ## 🚀 Features
 
-- 🏥 **HealthKit-Integration** - Vitalwerte-Überwachung
-- �� **Notfallerkennung** - Automatische Sturzerkennung
-- �� **SafeZones** - Geofencing und Standortüberwachung
-- 🔔 **Alarmierung** - MQTT-Integration mit Alarmzentrale
+- **HealthKit-Integration** - Vitalwerte-Überwachung
+- **Notfallerkennung** - Automatische Sturzerkennung
+- **SafeZones** - Geofencing und Standortüberwachung
+- **Alarmierung** - MQTT-Integration mit Alarmzentrale
 
 ## 📱 Systemanforderungen
 
